@@ -1,0 +1,49 @@
+body{
+ 
+  
+background-image: url("https://xvivo.com/app/uploads/2020/05/COVID19_1920x1200.jpg")
+
+
+}
+.main_div
+{
+    text-decoration-color: white;
+    background-color: blue;
+ 
+}
+
+#area
+{
+    text-decoration-color: white;
+    text-align: center;
+    margin-top: 150;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+#country{
+    margin-top: 30px;
+    margin-left: 220px;
+    
+}
+
+#sdate{
+    margin-top: 30px;
+    margin-left: 50px;
+   
+}
+
+#edate{
+    margin-top: 30px;
+    margin-left: 50px;
+   
+}
+
+#sub
+{
+    margin-left:50px;
+ 
+    background-color: blue;
+    text-decoration-color: black;
+}
